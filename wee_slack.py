@@ -46,7 +46,7 @@ RECORD_DIR = "/tmp/weeslack-debug"
 
 SLACK_API_TRANSLATOR = {
     "channel": {
-        "history": "channels.history",
+        "history": "conversations.history",
         "join": "conversations.join",
         "leave": "conversations.leave",
         "mark": "channels.mark",
